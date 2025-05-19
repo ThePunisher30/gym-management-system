@@ -99,7 +99,22 @@ This Gym Management System was created purely for experimentation using Bolt AI.
 
 ## 📸 Screenshots
 
-_Add screenshots or demo images of your application interface here._
+### Login Page
+![Login Page](Login.png)
+*Simple and secure login interface for all users.*
+
+### Admin Dashboard
+![Admin Dashboard](admin.png)
+*Admin dashboard with management tools and statistics.*
+
+### Trainer Dashboard
+![Trainer Dashboard](trainer.png)
+*Trainer dashboard for managing classes and tracking member progress.*
+
+### User Dashboard
+![User Dashboard](user.png)
+*User dashboard to view workout plans, schedules, and progress.*
+
 
 ---
 
